@@ -1,0 +1,15 @@
+{
+  "name": "similarity_join_visualizer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.0.0-rc.18"
+  },
+  "dependencies": {
+    "@tauri-apps/plugin-shell": "^2.0.0"
+  }
+}
